@@ -1,0 +1,6 @@
+# Normalise to LF so .py files stay executable on Linux/macOS
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
